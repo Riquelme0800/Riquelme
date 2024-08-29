@@ -1,0 +1,5 @@
+print("lun(a) = nota")
+print ("Aline = nota = 9.0")
+print ("Mário = nota = Dez")
+print ("Sérgio = nota = 4.5")
+print ("Shirley = nota = 7.0")
